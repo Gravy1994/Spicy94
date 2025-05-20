@@ -1,10 +1,6 @@
 {
   "collection": "https://markpbaggett.github.io/static_iiif/collections/discover-collections.json",
   "devCollection": "https://markpbaggett.github.io/static_iiif/collections/discover-collections.json",
-  "featured": [
-    "https://theseus-viewer.netlify.app/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif-service%2Ffedora%2Fpresentation%2F3b%2F6f%2Fc3%2F25%2F3b6fc325-f6ca-41d8-b91e-8c5db3be8c13%2Fcharting-texas_objects%2F51&collection=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif-service%2Ffedora%2Fcollection%2F3b%2F6f%2Fc3%2F25%2F3b6fc325-f6ca-41d8-b91e-8c5db3be8c13%2Fcharting-texas",
-    "https://theseus-viewer.netlify.app/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif-service%2Ffedora%2Fpresentation%2F3b%2F6f%2Fc3%2F25%2F3b6fc325-f6ca-41d8-b91e-8c5db3be8c13%2Fcharting-texas_objects%2F8&collection=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif-service%2Ffedora%2Fcollection%2F3b%2F6f%2Fc3%2F25%2F3b6fc325-f6ca-41d8-b91e-8c5db3be8c13%2Fcharting-texas"
-  ],
   "metadata": ["Date", "Subject"],
   "label": { "none": ["Spicy94"] },
   "summary": {
